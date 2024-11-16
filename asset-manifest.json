@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/landing_Page/static/css/main.98d6aac5.css",
+    "main.js": "/landing_Page/static/js/main.03030ab1.js",
+    "static/js/453.3dcef5de.chunk.js": "/landing_Page/static/js/453.3dcef5de.chunk.js",
+    "static/media/Navigo_logo_Light-removebg.png": "/landing_Page/static/media/Navigo_logo_Light-removebg.9d2313acd2e66f2df909.png",
+    "index.html": "/landing_Page/index.html",
+    "main.98d6aac5.css.map": "/landing_Page/static/css/main.98d6aac5.css.map",
+    "main.03030ab1.js.map": "/landing_Page/static/js/main.03030ab1.js.map",
+    "453.3dcef5de.chunk.js.map": "/landing_Page/static/js/453.3dcef5de.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98d6aac5.css",
+    "static/js/main.03030ab1.js"
+  ]
+}
