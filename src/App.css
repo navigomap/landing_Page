@@ -32,8 +32,8 @@
 
 /* Logo */
 .logo {
-  width: 120px;
-  height: 120px;
+  width: 460px;
+  height: 460px;
   animation: float 4s ease-in-out infinite;
   filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.15));
   transition: transform 0.3s;
@@ -46,14 +46,14 @@
 /* Responsive Logo */
 @media (max-width: 480px) {
   .logo {
-    width: 80px;
-    height: 80px;
+    width: 220px;
+    height: 220px;
   }
 }
 
 /* Rotating Tagline */
 .tagline {
-  font-size: 1.2rem;
+  font-size: 2.2rem;
   font-weight: 500;
   color: #ffffff;
   opacity: 0.9;
@@ -64,7 +64,7 @@
 
 @media (max-width: 480px) {
   .tagline {
-    font-size: 1rem;
+    font-size: 1.5rem;
   }
 }
 
@@ -140,9 +140,9 @@
 /* Responsive Text Styles */
 @media (max-width: 480px) {
   .work-in-progress {
-    font-size: 0.9rem;
+    font-size: 1.1rem;
   }
   .coming-soon-text {
-    font-size: 1.5rem;
+    font-size: 1.9rem;
   }
 }
